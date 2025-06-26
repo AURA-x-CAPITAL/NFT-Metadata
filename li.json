@@ -1,0 +1,27 @@
+{
+    "name": "Degen lithium Сapitalist #001",
+    "description": "Pluto's lithium metal",
+    "image": "https://ipfs.io/ipfs/QmUcwqZvoTCb66QVbwL2CuJvG1Az5fNEdFaZj1LSqnXtRF/li.png",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "lithium"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Pluto"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      }
+    ]
+  }

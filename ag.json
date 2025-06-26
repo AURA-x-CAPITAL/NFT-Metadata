@@ -1,0 +1,47 @@
+{
+    "name": "Degen Silver #001",
+    "description": "Silver is the metal of the Moon",
+    "image": "https://ipfs.io/ipfs/QmUcwqZvoTCb66QVbwL2CuJvG1Az5fNEdFaZj1LSqnXtRF/ag.png",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Silver"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Moon"
+      },
+      {
+        "trait_type": "Level",
+        "value": "6"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      },
+      {
+        "trait_type": "The right to vote in the senti",
+        "value": "True"
+      },
+      {
+        "trait_type": "Multiplier for work at the factory",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier drophunting",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier for the robot",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier for the collection of MEMS",
+        "value": "1.1"
+      }
+    ]
+  }

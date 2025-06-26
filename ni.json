@@ -1,0 +1,39 @@
+{
+    "name": "Degen Nickel #001",
+    "description": "Neptune's nickel metal",
+    "image": "https://ipfs.io/ipfs/QmUcwqZvoTCb66QVbwL2CuJvG1Az5fNEdFaZj1LSqnXtRF/ni.png",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Nickel"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Neptune"
+      },
+      {
+        "trait_type": "Level",
+        "value": "4"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      },
+      {
+        "trait_type": "The right to vote in the senti",
+        "value": "True"
+      },
+      {
+        "trait_type": "Multiplier for work at the factory",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier drophunting",
+        "value": "1.1"
+      }
+    ]
+  }

@@ -1,0 +1,43 @@
+{
+    "name": "Degen Сopper #001",
+    "description": "copper is the metal of Venus",
+    "image": "https://ipfs.io/ipfs/QmUcwqZvoTCb66QVbwL2CuJvG1Az5fNEdFaZj1LSqnXtRF/cu.png",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Сopper"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Venus"
+      },
+      {
+        "trait_type": "Level",
+        "value": "5"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      },
+      {
+        "trait_type": "The right to vote in the senti",
+        "value": "True"
+      },
+      {
+        "trait_type": "Multiplier for work at the factory",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier drophunting ",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier for the robot",
+        "value": "1.1"
+      }
+    ]
+  }

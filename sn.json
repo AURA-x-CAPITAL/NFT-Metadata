@@ -1,0 +1,51 @@
+{
+    "name": "Degen Tin #001",
+    "description": "Tin is the metal of Jupiter",
+    "image": "https://ipfs.io/ipfs/QmUcwqZvoTCb66QVbwL2CuJvG1Az5fNEdFaZj1LSqnXtRF/sn.png",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Tin"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Jupiter"
+      },
+      {
+        "trait_type": "Level",
+        "value": "7"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      },
+      {
+        "trait_type": "The right to vote in the senti",
+        "value": "True"
+      },
+      {
+        "trait_type": "Multiplier for work at the factory",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier drophunting ",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier for the robot",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Multiplier for the collection of MEMS",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "Access to 1 skin to choose from in the game",
+        "value": "True"
+      }
+    ]
+  }
