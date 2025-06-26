@@ -1,7 +1,7 @@
 {
     "name": "Degen Mercury #001",
     "description": "Mercury is the metal of mercury",
-    "image": "https://ipfs.io/ipfs/QmUcwqZvoTCb66QVbwL2CuJvG1Az5fNEdFaZj1LSqnXtRF/hg.png",
+    "image": "https://raw.githubusercontent.com/AURA-x-CAPITAL/NFT-Metadata/main/pic/hg.png",
     "attributes": [
       {
         "trait_type": "Material",
