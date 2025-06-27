@@ -1,0 +1,27 @@
+{
+    "name": "Lithium 1.1 by ADIKO #custom",
+    "description": "discovered by the brilliant digital enthusiast ADIKO and added to the AURA laboratory for your experiments, according to preliminary information, increases the revenue of your tokens by 30%",
+    "image": "https://raw.githubusercontent.com/AURA-x-CAPITAL/NFT-Metadata/main/pic/li_new.png",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "lithium"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Pluto"
+      },
+      {
+        "trait_type": "Level",
+        "value": "1.1"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      }
+    ]
+  }
