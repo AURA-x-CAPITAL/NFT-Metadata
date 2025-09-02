@@ -1,0 +1,31 @@
+{
+    "name": "Aluminum 2.1 by ADIKO | #Gamified Concentrate",
+    "description": "Synthetic aluminum — helps to improve the aura of gaming processes and turns games into a tool for working with profitability.",
+    "image": "",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Aluminum"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Earth"
+      },
+      {
+        "trait_type": "Level",
+        "value": "2.1"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      },
+      {
+        "trait_type": "Multiplier for work at the factory",
+        "value": "1.1"
+      }
+    ]
+  }
