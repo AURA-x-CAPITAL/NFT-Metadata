@@ -1,0 +1,35 @@
+{
+    "name": "Hydrogenium by ADIKO | #NewJourney",
+    "description": "Hydrogenium Moon — Caught while exploring an AURA signal from the outer space. For the AURAnauts who are ready to start their crypto-odyssey",
+    "image": "",
+    "attributes": [
+      {
+        "trait_type": "Material",
+        "value": "Hydrogenium"
+      },
+      {
+        "trait_type": "Planet",
+        "value": "Moon"
+      },
+      {
+        "trait_type": "Level",
+        "value": "0"
+      },
+      {
+        "trait_type": "id",
+        "value": "#001"
+      },
+      {
+        "trait_type": "senti access",
+        "value": "True"
+      },
+      {
+        "trait_type": "The right to vote in the senti",
+        "value": "false"
+      },
+      {
+        "trait_type": "Multiplier for work at the factory",
+        "value": "0"
+      }
+    ]
+  }
